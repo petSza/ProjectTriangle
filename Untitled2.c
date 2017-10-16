@@ -2,6 +2,7 @@
 #include<math.h>	
 int main()
 {	
+	//yo wazzup
 	int guess = 0;
 	// triangle
 	char answer;
@@ -153,7 +154,7 @@ int main()
 				getchar();
 				if(answer == 121)
 				{
-					printf("\tIn western astrology, Aries is a sign of initiative; a leader, with bravery, and the autonomy required to commence. Uncomfortable with inaction, Aries is the Cardinal sign of Fire, and thus is the zodiac of drive. Ruled by Mars, Aries is strongly autonomous, and can be headstrong and crass, sometimes showing an impulsive or reckless approach to issues. With the Ram as their standard, Aries tends toward obstinate and self-seeking. Jaunty and self-supporting, Aries is capable of independence. This quality may encourage others to emulate—but Aries is unlikely to pause for supporters. When Aries is found in a chart, there is enthusiasm and decisiveness.\n");
+					printf("\tIn western astrology, Aries is a sign of initiative; a leader, with bravery, and the autonomy required to commence. Uncomfortable with inaction, Aries is the Cardinal sign of Fire, and thus is the zodiac of drive. Ruled by Mars, Aries is strongly autonomous, and can be headstrong and crass, sometimes showing an impulsive or reckless approach to issues. With the Ram as their standard, Aries tends toward obstinate and self-seeking. Jaunty and self-supporting, Aries is capable of independence. This quality may encourage others to emulateâ€”but Aries is unlikely to pause for supporters. When Aries is found in a chart, there is enthusiasm and decisiveness.\n");
 				}
 				else if(answer == 110)
 				{
@@ -172,7 +173,7 @@ int main()
 				getchar();
 				if(answer == 121)
 				{
-					printf("\tTaurus was the first sign of the zodiac established among the ancient Mesopotamians – who knew it as the Bull of Heaven – because it was the constellation through which the sun rose on the vernal equinox at that time. Due to the precession of the equinox, it has since passed through the constellation Aries and into the constellation Pisces (hence our current era being known as the Age of Pisces).\n");
+					printf("\tTaurus was the first sign of the zodiac established among the ancient Mesopotamians â€“ who knew it as the Bull of Heaven â€“ because it was the constellation through which the sun rose on the vernal equinox at that time. Due to the precession of the equinox, it has since passed through the constellation Aries and into the constellation Pisces (hence our current era being known as the Age of Pisces).\n");
 				}
 				else if(answer == 110)
 				{
@@ -324,7 +325,7 @@ int main()
 				getchar();
 				if(answer == 121)
 				{
-					printf("\tCapricorn is said to be ruled by the planet Saturn. Its symbol is based on the Sumerians' primordial god of wisdom and waters, Enki,[4] with the head and upper body of a goat and the lower body and tail of a fish.[5] Later known as Ea in Akkadian and Babylonian mythology, Enki was the god of intelligence (gestú, literally 'ear'), creation, crafts; magic; water, seawater and lakewater.\n");
+					printf("\tCapricorn is said to be ruled by the planet Saturn. Its symbol is based on the Sumerians' primordial god of wisdom and waters, Enki,[4] with the head and upper body of a goat and the lower body and tail of a fish.[5] Later known as Ea in Akkadian and Babylonian mythology, Enki was the god of intelligence (gestÃº, literally 'ear'), creation, crafts; magic; water, seawater and lakewater.\n");
 				}
 				else if(answer == 110)
 				{
